@@ -1,2 +1,2 @@
 # tp_laboratorio_2
-Laboratorio II - Repositorio de trabajos prácticos
+Repositorio de trabajos practicos de Laboratorio II
