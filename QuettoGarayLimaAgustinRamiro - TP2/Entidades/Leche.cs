@@ -8,7 +8,7 @@ using System.Drawing;
 
 namespace Entidades_2017
 {
-    class Leche : Producto
+    public class Leche : Producto
     {
         public enum ETipo { Entera, Descremada }
         ETipo _tipo;
@@ -20,7 +20,12 @@ namespace Entidades_2017
         /// <param name="patente"></param>
         /// <param name="color"></param>
         public Leche(EMarca marca, string patente, ConsoleColor color)
-            : base(patente, marca, color)
+            : base(marca, patente, color)
+        {
+        }
+
+        public Leche(EMarca marca, string patente, ConsoleColor color, ETipo tipo)
+        : base(marca, patente, color)
         {
             _tipo = ETipo.Entera;
         }
@@ -42,12 +47,12 @@ namespace Entidades_2017
 
             sb.AppendLine("LECHE");
             sb.AppendLine(this);
-            sb.AppendLine("CALORIAS : {0}", this.CantidadCalorias);
+            sb.AppendLine("CALORIAS : "+ this.CantidadCalorias);
             sb.AppendLine("TIPO : " + this._tipo);
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 
-            return sb;
+            return sb.ToString();
         }
     }
 }

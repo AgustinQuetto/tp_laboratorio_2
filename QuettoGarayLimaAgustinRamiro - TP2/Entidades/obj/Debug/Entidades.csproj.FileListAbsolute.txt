@@ -8,3 +8,9 @@ D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
 D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
 D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
 D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Agustín\Documents\GitHub\tp_laboratorio_2\QuettoGarayLimaAgustinRamiro - TP2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Agustín\Documents\GitHub\tp_laboratorio_2\QuettoGarayLimaAgustinRamiro - TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Agustín\Documents\GitHub\tp_laboratorio_2\QuettoGarayLimaAgustinRamiro - TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Agustín\Documents\GitHub\tp_laboratorio_2\QuettoGarayLimaAgustinRamiro - TP2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Agustín\Documents\GitHub\tp_laboratorio_2\QuettoGarayLimaAgustinRamiro - TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Agustín\Documents\GitHub\tp_laboratorio_2\QuettoGarayLimaAgustinRamiro - TP2\Entidades\bin\Debug\Entidades.pdb
