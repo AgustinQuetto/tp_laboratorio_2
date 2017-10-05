@@ -9,6 +9,7 @@ namespace Entidades_2017
     public class Dulce : Producto
     {
         public Dulce(EMarca marca, string patente, ConsoleColor color)
+            : base(marca, patente, color)
         {
         }
 
@@ -28,7 +29,7 @@ namespace Entidades_2017
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("DULCE");
-            sb.AppendLine(this.Mostrar());
+            sb.AppendLine(this);
             sb.AppendLine("CALORIAS : "+ this.CantidadCalorias);
             sb.AppendLine("");
             sb.AppendLine("---------------------");

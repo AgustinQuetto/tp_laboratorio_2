@@ -37,7 +37,7 @@ namespace Entidades_2017
         {
             get
             {
-                return this.CantidadCalorias;
+                return 20;
             }
         }
 

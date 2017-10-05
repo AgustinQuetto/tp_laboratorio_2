@@ -23,7 +23,7 @@ namespace Entidades_2017
         {
             this._productos = new List<Producto>();
         }
-        public Changuito(int espacioDisponible) : base()
+        public Changuito(int espacioDisponible) : this()
         {
             this._espacioDisponible = espacioDisponible;
         }

@@ -9,7 +9,7 @@ namespace Entidades_2017
     public class Snacks : Producto
     {
         public Snacks(EMarca marca, string patente, ConsoleColor color)
-            //: base(patente, marca, color)
+            : base(marca, patente, color)
         {
         }
         /// <summary>
@@ -29,7 +29,7 @@ namespace Entidades_2017
 
             sb.AppendLine("SNACKS");
             sb.AppendLine(this);
-            sb.AppendLine("CALORIAS : {0}"+ this.CantidadCalorias);
+            sb.AppendLine("CALORIAS : "+ this.CantidadCalorias);
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 
