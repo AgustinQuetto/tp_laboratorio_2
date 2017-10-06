@@ -95,7 +95,7 @@ namespace Entidades_2017
         {
             foreach (Producto v in c._productos)
             {
-                if (v == p)
+                if (v == p || c._productos.Count == c._espacioDc._espacioDisponible)
                     return c;
             }
 
