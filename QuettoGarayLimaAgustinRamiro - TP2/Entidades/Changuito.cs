@@ -112,11 +112,13 @@ namespace Entidades_2017
         {
             foreach (Producto v in c._productos)
             {
-                if (v == p || c._productos.Count == c._espacioDisponible)
-                    return c;
+                if (v == p)
+                {
+                    c._productos.Remove(p);
+                    break;
+                }
             }
 
-            c._productos.Remove(p);
             return c;
         }
         #endregion
