@@ -1,0 +1,24 @@
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\UnitTestProject1.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\UnitTestProject1.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Archivos.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Clases Instanciables.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Entidades.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Excepciones.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Archivos.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Entidades.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Clases Instanciables.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Excepciones.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\obj\Debug\UnitTestProject1.dll
+C:\Users\Agustin Quetto\Documents\GitHub\tp_laboratorio_2\QuettoGarayLima.AgustinQuetto - TP3\UnitTesting\obj\Debug\UnitTestProject1.pdb
