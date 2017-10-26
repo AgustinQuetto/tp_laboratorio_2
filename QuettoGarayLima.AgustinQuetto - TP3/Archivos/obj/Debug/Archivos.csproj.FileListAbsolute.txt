@@ -1,0 +1,16 @@
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Archivos\bin\Debug\Archivos.dll
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Archivos\bin\Debug\Archivos.pdb
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Archivos\bin\Debug\Excepciones.dll
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Archivos\bin\Debug\Excepciones.pdb
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Archivos\obj\Debug\Archivos.dll
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Archivos\obj\Debug\Archivos.pdb

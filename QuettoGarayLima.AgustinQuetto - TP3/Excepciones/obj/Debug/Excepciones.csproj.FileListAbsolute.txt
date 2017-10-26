@@ -1,0 +1,20 @@
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Excepciones\obj\Debug\Excepciones.pdb
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Excepciones\bin\Debug\Excepciones.dll
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Excepciones\bin\Debug\Excepciones.pdb
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Excepciones\obj\Debug\Excepciones.dll
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Excepciones\obj\Debug\Excepciones.pdb
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Excepciones\bin\Debug\Excepciones.dll
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Excepciones\bin\Debug\Excepciones.pdb
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Excepciones\obj\Debug\Excepciones.dll
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

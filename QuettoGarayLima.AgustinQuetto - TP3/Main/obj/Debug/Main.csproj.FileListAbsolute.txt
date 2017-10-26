@@ -1,0 +1,55 @@
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\bin\Debug\Main.exe.config
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\bin\Debug\Main.exe
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\bin\Debug\Main.pdb
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\bin\Debug\Clases Instanciables.dll
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\bin\Debug\Entidades.dll
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\bin\Debug\Excepciones.dll
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\bin\Debug\Clases Instanciables.pdb
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\bin\Debug\Entidades.pdb
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\bin\Debug\Excepciones.pdb
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\obj\Debug\Main.exe
+D:\Visual Studio Repos\Di Marzo Borghi.Francisco.TP3\Main\obj\Debug\Main.pdb
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Main.exe.config
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\obj\Debug\Main.exe
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\obj\Debug\Main.pdb
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Main.exe
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Main.pdb
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Clases Instanciables.dll
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Entidades.dll
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Excepciones.dll
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Clases Instanciables.pdb
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Entidades.pdb
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Excepciones.pdb
+D:\Di Marzo Borghi Francisco TP 3 Universidad\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Main.exe.config
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Main.exe
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Main.pdb
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Clases Instanciables.dll
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Entidades.dll
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Excepciones.dll
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Archivos.dll
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Clases Instanciables.pdb
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Entidades.pdb
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Excepciones.pdb
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\bin\Debug\Archivos.pdb
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\obj\Debug\Main.exe
+D:\Visual Studio Repos\Di Marzo Borghi Francisco TP 3 Universidad\Main\obj\Debug\Main.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Main.exe
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Main.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Clases Instanciables.dll
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Entidades.dll
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Clases Instanciables.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Entidades.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\obj\Debug\Main.exe
+C:\Users\Agustin Quetto\Desktop\QuettoGarayLima.AgustinQuetto.2A.TP3\Main\obj\Debug\Main.pdb
